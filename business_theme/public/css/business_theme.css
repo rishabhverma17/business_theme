@@ -5132,9 +5132,9 @@ output {
 
 .form-control:focus {
     outline: 0;
-    border: 1px solid #ffa00a;
+    border: 1px solid #6a5acd;
     box-shadow: none;
-    background: rgba(255, 160, 10, 0.14) !important;
+    background: #6495ed61 !important;
 }
 
 .form-control::-moz-placeholder {
@@ -6147,7 +6147,7 @@ tbody.collapse.in {
 .dropdown-menu>li>a:focus {
     color: #2b2b2b;
     text-decoration: none;
-    background-color: rgba(255, 160, 10, 0.14);
+    background-color: #6495ed61;
 }
 
 .dropdown-menu>.active>a,
@@ -6648,7 +6648,7 @@ select[multiple].input-group-sm>.input-group-btn>.btn {
 .nav>li>a:hover,
 .nav>li>a:focus {
     text-decoration: none;
-    background-color: rgba(255, 160, 10, 0.14);
+    background-color: #6495ed61;
     border-radius: 0px;
     color: #585757;
 }
@@ -16827,7 +16827,7 @@ th.fc-widget-header {
 }
 
 .list-item:hover {
-    background-color: rgba(255, 160, 10, 0.14);
+    background-color: #6495ed61;
 }
 
 .module-section {
