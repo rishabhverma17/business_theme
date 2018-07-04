@@ -7301,7 +7301,7 @@ select[multiple].input-group-sm>.input-group-btn>.btn {
 .navbar-default .navbar-nav>.open>a,
 .navbar-default .navbar-nav>.open>a:hover,
 .navbar-default .navbar-nav>.open>a:focus {
-    color: #ffa00a;
+    color: #6495ed;
     background: #222b33;
 }
 
@@ -13304,7 +13304,7 @@ fieldset[disabled] .form-control {
     padding: 5px 10px;
     outline: none;
     border-radius: 0px;
-    border: 1px solid #ffa00a;
+    border: 1px solid #6495ed;
     opacity: 0.9;
     line-height: 1.5;
 }
