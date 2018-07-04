@@ -7262,7 +7262,7 @@ select[multiple].input-group-sm>.input-group-btn>.btn {
 
 .navbar-default .navbar-nav>li>a:hover,
 .navbar-default .navbar-nav>li>a:focus {
-    color: hsl(36, 100%, 50%);
+    color: #6495ed;
     background-color: transparent;
 }
 
@@ -13513,7 +13513,7 @@ body[data-route^="Module"] .main-menu .form-sidebar {
 
 .layout-side-section .sidebar-menu>li>a {
     display: inline-block;
-    color: orange;
+    color: #6495ed;
 }
 
 .layout-side-section .sidebar-menu {
@@ -13533,7 +13533,7 @@ body[data-route^="Module"] .main-menu .form-sidebar {
     right: 0px;
     top: 0px;
     padding-bottom: 4px;
-    background: #ffa00a;
+    background: #6495ed;
     color: white;
 }
 
@@ -14479,7 +14479,7 @@ h6.uppercase,
     font-weight: normal;
     letter-spacing: 0.4px;
     text-transform: uppercase;
-    color: #ffa00a;
+    color: #6a5acd;
 }
 
 .form-section {
